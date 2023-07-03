@@ -1,0 +1,14 @@
+Nombre: Jorge
+Correo: jorge@gmail.com
+Codigo: 7755
+Telefono: 977111204
+Categoria: D
+DNI: 71928735
+
+Nombre: Ron
+Correo: ron@gmail.com
+Codigo: 7756
+Telefono: 986535224
+Categoria: B
+DNI: 64532312
+

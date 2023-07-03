@@ -1,0 +1,18 @@
+Nombre: Andrew
+Correo: andrew@gmail.com
+Codigo: 8879
+Telefono: 978483923
+Salario: S/,350
+
+Nombre: Joseph
+Correo: joseph@gmail.com
+Codigo: 8878
+Telefono: 990097438
+Salario: S/,400
+
+Nombre: Renato
+Correo: renato@gmail.com
+Codigo: 8877
+Telefono: 988000432
+Salario: S/,300
+

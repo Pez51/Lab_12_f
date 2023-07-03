@@ -1,0 +1,42 @@
+Codigo: 348
+Tipo: limpieza
+Descripcion: DetergenteOpal
+Precio: 6
+Stock: 15
+
+Codigo: 346
+Tipo: bebida
+Descripcion: CocaCola
+Precio: 2.5
+Stock: 30
+
+Codigo: 345
+Tipo: comida
+Descripcion: manzana
+Precio: 0.5
+Stock: 50
+
+Codigo: 342
+Tipo: limpieza
+Descripcion: Lejia
+Precio: 3
+Stock: 60
+
+Codigo: 340
+Tipo: tecnologia
+Descripcion: ImpresoraCanon
+Precio: 400
+Stock: 10
+
+Codigo: 339
+Tipo: Domestico
+Descripcion: PlanchaOster
+Precio: 149.9
+Stock: 20
+
+Codigo: 336
+Tipo: tecnologia
+Descripcion: CamaraWeb
+Precio: 49.9
+Stock: 30
+
