@@ -1,0 +1,7 @@
+Nombre: Pablo
+Correo: pablo@gmail.com
+Codigo: 7757
+Telefono: 987432123
+Categoria: A
+RUC: 76542123981
+
